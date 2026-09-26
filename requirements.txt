@@ -1,2 +1,2 @@
-pandas as pd
+pandas
 math
