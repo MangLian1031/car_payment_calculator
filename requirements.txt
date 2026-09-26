@@ -1,2 +1,2 @@
-pandas
-math
+pandas==3.0.6
+math==3.12
